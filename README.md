@@ -16,7 +16,7 @@ npx nuxi build --preset=cloudflare_pages
 
 ```sh
 [nitro 12:13:43 PM]  ERROR  Error: Cannot resolve "@react-email/render" from 
-"/home/gabriel/programming/resend/reproductions/nuxt-resend-node-cloudflare/node_modules/.pnpm/resend@6.6.0/node_modules/resend/dist/index.mjs" 
+".../nuxt-resend-node-cloudflare/node_modules/.pnpm/resend@6.6.0/node_modules/resend/dist/index.mjs" 
 and externals are not allowed!
 ```
 
